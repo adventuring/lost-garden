@@ -1,0 +1,85 @@
+As I dug through my archives of old images, I came across another complete set of graphics from 1995 for a wild Sinistar clone that was never released. I own all the copyrights and figure, what the heck. Some crazy fool who is still obsessed with the glory of pixel art might find a use for them.
+
+Complete descriptions of all the graphics after the link. Enjoy!
+
+This is the complete list of all the graphics. Since it was a space game, the number of tile sets is rather limited. We originally built the game map as a big bitmap that stuff was randomly blitted to. It had super smooth scrolling and pretty decent physics.
+
+    ActGrid: Spawn point for player's ship
+    Barrel: Repulses the players ship if it gets near
+    Base: Spawn enemy drones
+    Beacon (Destroyed, Searching, Red Alert) Sensor that looks for any enemy
+    Beacon2: Alternative sensor type
+    Blood: Splots of animated blood if you kill a space man.
+    Bomb1: Classic pulsating bomb. Exploded with great force, inevitably.
+    Bship: Battleship with cool rotating turrets. This thing was 3 times as large as your ship!
+    Bubble: What the hell?
+    Bullets: 6 types of bullets, each with 3 levels of power.
+    More bullets: Powerups and different color bullets for rock, paper, scissor attacking action.
+    Canister: The crate lives! Holds powerup, naturally
+    Cargo1: Ook? Alien nasty.
+    Cargo1b: Alien nasty damaged
+    Cargo2: Another cargo ship
+    Check: Checkpoint. When the player reaches this checkpoint, they regen from this location.
+    Crystal1: The cash of the game. The evil drones use this to make the Killer.
+    Crystal2: You have to realize that we didn't have the ability to rotate things easily. This was a radical attempt to create 16 rotational positions. 8-bit technology at it's peak.
+    Debris: The stuff that spews out when an asteroid is mined by drones
+    Debris2,3: More of the same.
+    Doomsday: Think of this as very nasty big bomb. If you hit it, the entire screen went 'foomp' and no more little player.
+    Drone: These little fellows run about gathering crystals in order to build the Killer. They'll orbit an asteroid, fire at it until a crystal appears and take it out.
+    Drone2: A more efficient type of drone
+    Exhaust1, 2, and 3: This flame comes out the back of a spaceship.
+    Explode1, 2, 3, 4, and 5: Ah, the glory of highly animated explosions with 1-bit alpha.
+    Face1: This fellow was the store keeper when you bought upgrades.
+    Factory: An enemy installation that made drones
+    Factory2: An enemy installation that made super drones
+    Factory 3: This is where the Killer was built.
+    Factory 4b: This is where the mini-Killer was built.
+    Flame: Fireballs stolen from Mario, no doubt
+    Flamer: Everything you need to make a flame thrower of death and burnination
+    Font: I'm in awe. Font with *high light selection*
+    Formref1: Reference on how formations worked. Galaga, move on over.
+    Gamemenu: The basic menu for the game. Check out those gears.
+    GravBcon: A gravitational beacon that sucked the player towards the deadly rocks.
+    GravGrid: Bubbles in space that acted as a simple form of terrain. Very fun.
+    Guard: These trigger happy campers guarded the drones. No one ever said plot was important to video games, dammit.
+    Gun: It looks more like a blimp, but this fired out little round bullets in streams.
+    Hiscore: Enter your name, record your score. If we had come out a few years later, we would have licenced some sweet Tony Hawk punk/death/metal sellout music for this screen.
+    Hunter1, 2: Attackers that come straight at you.
+    Items: All the great powerups you could get. I have no clue what they do, but I like shiny things. (Let's see: Generators to improve energy recharge, shields, health, rubber duckies, various weaspons, and the Amiga Checkmark)
+    Junkdrtst: Energy gates
+    Joystick: Back in the day you needed to calibrate your joystick. These are the interface graphics.
+    Junk: Destructable junk that acted as mazes for the level. You could blow holes in it...cause that's fun.
+    Keyboard: Keyboard configuration
+    Killer: Ode to Sinistar, my ass. Talk about exact copy. This happy looking fellow was a pain in the arse once he came to life.
+    Killer2: The mini-killer. Not quite a munchkin, but still damn sexy. His eyes would slowly come alight as he was built. He could also split apart when he was built.
+    Knife: Um...seems rather morbid.
+    Launcher: Another enemy ship. This one flew around spawning little ships
+    Mage: A logo for our team
+    Main: The intial interface. We went with a much more minimalist look in the end.
+    Main2: The final minimalist UI
+    MainMenu: Yet another menu template
+    Mine: These fellows floating around caused mucho pain
+    Missle: Hmm. Sloppy, sloppy. The high light is off in the lower left corner.
+    Mouse: UI for selecting mouse control.
+    Names: All the cool folks in our development team. I still talk to Leinad (music), and wReam (Hmm...what did he do?) and Zoombapup (programmer...he ended up working on Worms for ages)
+    Nebula: Gotta have background graphics
+    Options: The options screen. In the end, it is all about 'Exit to DOS'
+    Pointer: The mouse pointer. It changed when you clicked.
+    PShip2: The player ship. I spent time on the 16 rotational animations so that it would be smooooothy. Like the fine inner thigh of a lovely amazonian princess right after a day of mudbaths and waxing. I was such a proud young artist.
+    Rock: An asteroid that contains crystals and be blown to smithereens.
+    Ship: One of my first attempts at 3D graphics. This took ages to render on a pirated copy of 3ds running in the old computer lab. I think we ran it on the fastest machine on campus, a 486.
+    Ship2: Sweet!
+    Ship3, 4, 5, and 6: Enemy! (Really, all the explanation that was needed)
+    ShipGun: Imagine this...a ship with a rotating turret. Man, that would be so cool.
+    Smasher: Ever have those days when the programmer laughs and laughs and laughs at you? This enemy had an animated energy ball on a chain. Add some primitive physics and you put that little cutie from Kill Bill to shame.
+    Spaceman: When certain ships where destroyed, little guys fell out. They really only existed to be shot. I think I stole the idea from the joy of running over little people in the Amiga game "Firepower."
+    Spacestor: If you made it here, you could buy cool stuff
+    Spike: Dangerous walls
+    Store3: The interface for the store.
+    Sun: The central sun that all this junk floated around. If you fell in, you got hurt. Flares flew out of it periodically.
+    Teleport: A jump gate between sections of the map
+    Test1: A mockup showing the store in action
+    Test2: A mockup showing the game in action
+    Warp: No clue
+    Wave: A giant gun that fired huge waves of fire at the player.
+    Worm: A squirmy worm creature. 

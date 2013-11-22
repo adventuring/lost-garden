@@ -1,0 +1,1 @@
+grep symbol\ id SmallWorld-all-labeled.pretty-printed.svg  | cut -d '"' -f 2 | while read sym ; do cp SmallWorld-all-labeled.one-sym.svg $sym.isolated.svg ; sed -e "s,SYMBOLNAME,$sym,g" -i $sym.isolated.svg ; done
